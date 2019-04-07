@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Currency converter</string>
+    <string name="currency_spinner_hint_from">I have</string>
+    <string name="currency_spinner_hint_to">Want to buy</string>
+    <string name="relativeValueFormat" translatable="false">%d %s = %s %s</string>
+    <string name="error_message_no_data">Fetching currencies is failed. Please try again</string>
+    <string name="error_message_unknown">Oops... Something went wrong.</string>
+    <string name="try_again_button_text">Try again</string>
+    <string name="convert_amount_hint" translatable="false">0.00</string>
+    <string name="convert_amount_description">Amount</string>
+    <string name="converted_amount_description">Converted currency</string>
+    <string name="top_bar_title">Currency Converter</string>
+    <string name="convert_button_text">Convert</string>
+    <string name="converted_value_placeholder" translatable="false">0.00</string>
+    <string name="currency_from_description">I have</string>
+    <string name="currency_to_description">Want to buy</string>
+</resources>

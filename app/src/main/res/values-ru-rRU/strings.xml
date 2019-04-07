@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Currency converter</string>
+    <string name="currency_spinner_hint_from">У меня есть</string>
+    <string name="currency_spinner_hint_to">Хочу приобрести</string>
+    <string name="try_again_button_text">Попробовать снова</string>
+    <string name="convert_amount_description">Количество</string>
+    <string name="converted_amount_description">Конвертированная валюта</string>
+    <string name="top_bar_title">Конвертер Валют</string>
+    <string name="convert_button_text">Конвертировать</string>
+    <string name="currency_from_description">У меня есть</string>
+    <string name="currency_to_description">Хочу приобрести</string>
+    <string name="error_message_no_data">"Во время загрузки произошла ошибка. "</string>
+    <string name="error_message_unknown">Упссс... Что-то пошло не так.</string>
+</resources>
