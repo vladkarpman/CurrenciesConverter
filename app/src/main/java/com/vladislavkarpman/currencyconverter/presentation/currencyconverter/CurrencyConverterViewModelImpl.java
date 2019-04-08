@@ -35,6 +35,8 @@ public class CurrencyConverterViewModelImpl
         if (disposable != null && !disposable.isDisposed()) {
             disposable.dispose();
         }
+        cachedData = null;
+        isRequestOnGoing = false;
     }
 
     @Override
